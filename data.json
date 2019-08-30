@@ -1,0 +1,32 @@
+{
+    "name": "Rishabh Sharma",
+    "title": "Full Stack Developer, Data Science and MAchine Learning Enthusiast",
+    "intro": "MY name is Rishabh sharma an i am fucking awesome",
+    "skills": [{
+            "title": "WEB DEVELOPMENT",
+            "rating": "90"
+        },
+        {
+            "title": "DATA STRUCTURES AND ALGORITHMS",
+            "rating": "97"
+        },
+        {
+            "title": "PUBLIC SPEAKING",
+            "rating": "85"
+        },{
+            "title": "MANAGEMENT SKILL",
+            "rating": "80"
+        },{
+            "title": "BASICS OF DATA SCIENCE",
+            "rating": "78"
+        },{
+            "title": "NODE.JS",
+            "rating": "90"
+        }
+    ],
+    "contact": {
+        "location": "Chitkara University",
+        "phone": "7015689451",
+        "email": "rishabhsharma3617@gmail.com"
+    }
+}
